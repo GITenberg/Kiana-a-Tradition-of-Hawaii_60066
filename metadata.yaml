@@ -1,0 +1,30 @@
+_repo: Kiana-a-Tradition-of-Hawaii_60066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jarves, James Jackson
+    aliases:
+    - Jarves, James J. (James Jackson)
+    - Jarves, J. Jackson (James Jackson)
+    - Jarves, J. J. (James Jackson)
+    birthdate: 1818
+    deathdate: 1888
+    gutenberg_agent_id: '50771'
+    url: http://www.gutenberg.org/2009/agents/50771
+    wikipedia: https://en.wikipedia.org/wiki/James_Jackson_Jarves
+description: ''
+gutenberg_issued: '2019-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60066'
+  lccn: '07010344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hawaii -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Kiana: a Tradition of Hawaii'
+url: http://www.gutenberg.org/ebooks/60066
